@@ -19,7 +19,7 @@ body {
 
 .header img {
     width: 150px;
-    height: 150px;
+    height: 120px;
     object-fit: cover;
     border-radius: 10px;
     margin-right: 25px;
@@ -51,4 +51,5 @@ h2 {
     width: 220px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
+
 
