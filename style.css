@@ -18,8 +18,8 @@ body {
 }
 
 .header img {
-    width: 150px;
-    height: 120px;
+    width: 800px;
+    height: 150px;
     object-fit: cover;
     border-radius: 10px;
     margin-right: 25px;
@@ -46,10 +46,11 @@ h2 {
 
 .project {
     background: #f2f2f2;
-    padding: 15px;
+    padding: 20px;
     border-radius: 10px;
     width: 220px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
+
 
 
